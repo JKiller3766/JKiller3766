@@ -5,7 +5,7 @@ Soy un desarrollador en formación interesado en el desarrollo de software y la 
 ## Sobre mí
 - 💻 En busca de nuevos proyectos y desarrollo profesional
 - 🚀 Buscando mejorar mis habilidades cada día
-- 🧠 Disfruto resolviendo problemas
+- 🧠 Disfruto encontrando soluciones a problemas
 - 📍 Malgrat de Mar, España
 
 ## Tecnologías
