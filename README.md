@@ -8,7 +8,7 @@ Soy un desarrollador en formación interesado en el desarrollo de software y la 
 - 🧠 Disfruto encontrando soluciones a problemas
 - 📍 Malgrat de Mar, España
 
-## Tecnologías
+## Herramientas
 
 - Java
 - C#
