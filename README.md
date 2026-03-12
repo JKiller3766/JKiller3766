@@ -1,16 +1,16 @@
-## Hi there 👋
+# Hola, soy Luca Calveiro Treitl 👋
 
-<!--
-**JKiller3766/JKiller3766** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Soy un desarrollador en formación interesado en el desarrollo de software y la tecnología. Me gusta aprender creando proyectos y descubrir nuevas herramientas.
 
-Here are some ideas to get you started:
+## Sobre mí
+- 💻 En busca de nuevos proyectos y desarrollo profesional
+- 🚀 Buscando mejorar mis habilidades cada día
+- 🧠 Disfruto resolviendo problemas
+- 📍 Malgrat de Mar, España
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Tecnologías
+
+- Java
+- C#
+- C
+- Unity
