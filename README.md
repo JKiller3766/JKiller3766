@@ -14,3 +14,8 @@ Soy un desarrollador en formación interesado en el desarrollo de software y la 
 - C#
 - C
 - Unity
+
+## 📫 Contacto
+- LinkedIn: [Luca Calveiro Treitl](https://www.linkedin.com/in/lucanicolascalveirotreitl/)
+- Itch Io: [JKiller3766](https://jkiller3766.itch.io/)
+- Discord: jkiller3766
